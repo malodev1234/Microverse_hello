@@ -1,0 +1,24 @@
+{
+  "name": "Microverse_hello",
+  "version": "1.0.0",
+  "description": "It is about a project which introduces some skills about how to use linters in html and css",
+  "main": "index.js",
+  "scripts": {
+     "webhint": "hint http://localhost:5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malodev1234/Microverse_hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malodev1234/Microverse_hello/issues"
+  },
+  "homepage": "https://github.com/malodev1234/Microverse_hello#readme",
+  "devDependencies": {
+    "@hint/configuration-web-recommended": "^8.2.18",
+    "hint": "^7.1.5"
+  }
+}
