@@ -14,7 +14,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 Microverse\_Hello ](#-microverse_hello-)
 	- [🛠 Built With ](#-built-with-)
 		- [Tech Stack ](#tech-stack-)
 		- [Key Features ](#key-features-)
@@ -36,9 +36,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Microverse_Hello <a name="about-project"></a>
 
-**[Hello microverse]** is a project about using linter
+**Microverse_Hello** is a project about using linter in a project contains html and css
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -59,9 +59,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Linter named webint**
+- **Linter named Stylint**
+- **Linter named Lighthouse**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,9 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +80,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: node js 
+In order to run this project you need: node js  install and vs code as  text editor
 
 <!--
 Example command:
@@ -120,7 +118,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command: ctrl + o +l
+To run the project, execute the following command: ctrl + o +l or with open live server if it install
 
 <!--
 Example command:
