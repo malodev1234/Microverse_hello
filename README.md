@@ -13,8 +13,8 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- 📗 Hello_Microverse setup (#-table-of-contents)
+- 📖 \ Hello_Microverse setup (#-your_project_name-)
 	- [🛠 Built With ](#-built-with-)
 		- [Tech Stack ](#tech-stack-)
 		- [Key Features ](#key-features-)
