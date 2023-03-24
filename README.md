@@ -5,7 +5,7 @@
  
   <br/>
 
-  <h3><b>Microverse</b></h3>
+  
 
 </div>
 
