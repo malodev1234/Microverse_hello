@@ -4,7 +4,7 @@
   "description": "It is about a project which introduces some skills about how to use linters in html and css",
   "main": "index.js",
   "scripts": {
-     "webhint": "hint http://localhost:5500"
+    "webhint": "hint http://localhost:5500"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,10 @@
   "homepage": "https://github.com/malodev1234/Microverse_hello#readme",
   "devDependencies": {
     "@hint/configuration-web-recommended": "^8.2.18",
-    "hint": "^7.1.5"
+    "hint": "^7.1.5",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
   }
 }

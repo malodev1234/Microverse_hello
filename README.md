@@ -5,7 +5,7 @@
  
   <br/>
 
-  <h3><b>Microverse</b></h3>
+  
 
 </div>
 
@@ -57,7 +57,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Linter named webint**
 - **Linter named Stylint**
@@ -82,79 +81,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need: node js  install and vs code as  text editor
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder: https://github.com/malodev1234/Microverse_hello
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
 ### Install
 
 Install this project with: npm install
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 To run the project, execute the following command: ctrl + o +l or with open live server if it install
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
 To run linter, run the following command: npx hint . or npm run webhint
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
 
 You can deploy this project using: vercel or guit pages
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
